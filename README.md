@@ -1,6 +1,6 @@
 # Duraprice
 
-Sistema de Gestão de Preços
+Sistema de Histórico de Preços
 
 Usuário: admin
 Senha: admin
